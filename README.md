@@ -60,7 +60,7 @@ Repo
 https://github.com/kaharharshit04/askme-friend
 
 Live Demo  
-(Add your deployed link)
+https://askme-friend-ai-hk.vercel.app
 
 ---
 
@@ -93,14 +93,6 @@ I actively explore:
 • LLM system design  
 • AI security and governance  
 • Enterprise AI integrations
-
----
-
-## 📈 GitHub Stats
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaharharshit04&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaharharshit04&layout=compact)
 
 ---
 
